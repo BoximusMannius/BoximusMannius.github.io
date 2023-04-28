@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: turquoise;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+    bottom: 0;
+    left: 45%;
+    right: 45%;
+}
+
+.navi {
+    text-align: left;
+}
+
+.brick {
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+}

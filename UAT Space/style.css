@@ -1,0 +1,23 @@
+body{
+    background-color: turquoise;
+}
+
+.button{   
+    width: 100px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border-color: skyblue;
+}
+
+.largeButton{   
+    width: 200px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border-color: skyblue;
+}
+
+.centerS {
+    text-align: center;
+}
